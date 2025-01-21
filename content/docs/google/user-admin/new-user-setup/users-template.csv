@@ -1,0 +1,2 @@
+First Name [Required],Last Name [Required],Email Address [Required],Password [Required],Org Unit Path [Required],Recovery Email,Change Password at Next Sign-In,Advanced Protection Program enrollment
+FName,LName,FName.LName@students.youngchambermusicians.org,rAnDoMTempPassWord,/Students,student@email.com,TRUE,FALSE
