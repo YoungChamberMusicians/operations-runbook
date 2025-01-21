@@ -1,4 +1,4 @@
 +++
-title = "Google Admin" 
+title = "Google Workspace" 
 weight = 100
 +++
